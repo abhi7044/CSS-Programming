@@ -22,6 +22,7 @@ This repository is where I practice and document my CSS learning — Flexbox, Gr
 |---|---|---|
 | Flexbox | ✅ Done | `/flexbox` |
 | CSS Grid | ✅ Done | `/grid` |
+| Bootstrap | ✅ Done | `/Css framework` |
 | Animations & Transitions | 🚧 In Progress | `/animations` |
 | Responsive Design | 🚧 In Progress | `/responsive` |
 | UI Components | 📝 Planned | `/components` |
